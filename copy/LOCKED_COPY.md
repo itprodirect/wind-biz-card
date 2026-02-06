@@ -1,18 +1,19 @@
-# Option 5 — Networking-forward (quick intro)
+# Option 2 — IA-firm friendly (ready to work cases)
 
 ## FRONT
 Nicholas Ferguson  
-Public Adjuster (FL & TX)
+Licensed Public Adjuster (FL & TX) | Xactimate Certified  
+Independent Adjuster (IA) Field & Desk Support  
 
-Call/Text: 727-297-7976  
-nick@itprodirect.com  
-LinkedIn (QR): nick-ferguson-fl
+727-297-7976  |  nick@itprodirect.com
 
 ## BACK
-If you need a dependable extra set of hands on claims, let’s connect.
+Available for field + desk support under IA firms.
 
-Responsive • Professional • Documentation-first  
-Xactimate Level 2 Certified
+Estimates • Photos • Scope support • Organized documentation  
+Professional communication with insureds + stakeholders
 
 FL Lic # W553318  |  TX Lic # 3393124  
 B.A.S., St. Petersburg College (SPC)
+
+LinkedIn (Scan QR)
