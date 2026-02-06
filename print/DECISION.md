@@ -23,6 +23,6 @@ Per option branch:
 ## Final sanity checks
 - [ ] Phone/email readable at arm’s length
 - [ ] Lic #s correct (FL W553318, TX 3393124)
-- [ ] Xactimate Level 2 Certified present
+- [ ] “Xactimate Level 2 Certified” present
 - [ ] No clutter / no jargon
 - [ ] QR scans on iPhone + Android
