@@ -17,11 +17,12 @@
 
 ## Outputs to commit
 Per option branch:
-- [ ] output/preview.png (or preview_opt-02.png)
-- [ ] output/print.pdf (or print_opt-02.pdf)
+- [ ] output/preview_opt-XX.png
+- [ ] output/print_opt-XX.pdf
 
 ## Final sanity checks
 - [ ] Phone/email readable at arm’s length
 - [ ] Lic #s correct (FL W553318, TX 3393124)
 - [ ] “Xactimate Level 2 Certified” present
 - [ ] No clutter / no jargon
+- [ ] QR scans on iPhone + Android
